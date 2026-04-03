@@ -1,4 +1,4 @@
-# 📚 Study Leveling App
+# 📚 Study Leveling
 
 A Java Swing-based gamified study management application that helps users stay productive by turning study tasks into a leveling system with XP, coins, and rewards.
 
