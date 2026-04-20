@@ -66,7 +66,7 @@ study-leveling-app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mdjunayet10/study-leveling-final-final.git
+   git clone https://github.com/mdjunayet10/study-leveling.git
    ```
 
 2. Open the project in your IDE (IntelliJ / Eclipse / NetBeans)
