@@ -1,0 +1,41 @@
+{
+  "username": "md",
+  "xp": 80,
+  "level": 3,
+  "coins": 220,
+  "tasks": [
+    {
+      "description": "Read a chapter",
+      "xpReward": 50,
+      "coinReward": 20,
+      "difficulty": "EASY",
+      "completed": true,
+      "completionDate": "2026-04-24",
+      "timeLimit": 30
+    },
+    {
+      "description": "Create study notes",
+      "xpReward": 80,
+      "coinReward": 30,
+      "difficulty": "MEDIUM",
+      "completed": true,
+      "completionDate": "2026-04-24",
+      "timeLimit": 45
+    },
+    {
+      "description": "Teach a concept to someone",
+      "xpReward": 150,
+      "coinReward": 70,
+      "difficulty": "HARD",
+      "completed": true,
+      "completionDate": "2026-04-24",
+      "timeLimit": 60
+    }
+  ],
+  "totalCompletedTasks": 3,
+  "customRewards": [],
+  "initialXp": 0,
+  "initialLevel": 0,
+  "initialCoins": 0,
+  "trackingInitialized": false
+}
